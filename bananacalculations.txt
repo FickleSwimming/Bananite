@@ -1,0 +1,14 @@
+40x40x40=64 000 klaser=
+1 193 803 776 000 triangler ( 1.2 trillion )
+per klase =5*4*2=40 bananas
+per banana: 466 330 triangles
+=2 560 000 bananas in total
+
+512*512=262 144 klaser
+per klase =5*4*2=40 bananas
+per banana: 466 330 triangles
+=10 485 760 bananas in total
+=4.9 trillion triangles.
+
+
+
